@@ -1,4 +1,4 @@
 # GAN
 GAN with Mnist
 
-![gif](/GenImages/GIF.gif)
+![alt text](/GenImages/Gf.gif "Title")
